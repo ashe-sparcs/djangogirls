@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+windows_venv
+ubuntu_venv
+db.sqlite3
+.DS_Store
